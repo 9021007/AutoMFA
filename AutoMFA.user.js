@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AutoMFA
-// @namespace    https://login.microsoftonline.com/common/DeviceAuthTls/reprocess
+// @namespace    https://login.microsoftonline.com/common/*
 // @version      2026-07-01
 // @description  Clicks on Duo.
 // @author       You
-// @match        https://login.microsoftonline.com/common/DeviceAuthTls/reprocess
+// @match        https://login.microsoftonline.com/common/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @run-at       document-idle
